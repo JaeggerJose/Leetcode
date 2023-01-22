@@ -37,3 +37,4 @@ public:
 ## Reference
 1. [Sort](https://www.geeksforgeeks.org/sorting-a-vector-in-c/)
 2. [Vector](https://shengyu7697.github.io/std-vector/)
+3. [Vedio](https://www.youtube.com/watch?v=GICnxgx1lXw)
